@@ -59,7 +59,7 @@ Output: "ये दिल्ली है मेरे यार"
 
 ## Project Structure
 
-├── README.md
+├── README.md 
 ├── app.py # Streamlit web interface
 ├── encoder.ipynb # BPE training notebook
 ├── stoi.pkl # String to integer mapping
